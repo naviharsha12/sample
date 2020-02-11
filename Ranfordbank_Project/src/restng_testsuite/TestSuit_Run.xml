@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="default-suite">
+	<test>
+		<classes>
+			<class name="restng_testsuite.ranford_home_page"></class>
+			<class name="restng_testsuite.branches_creation"></class>
+			<class name="restng_testsuite.branch_updation"></class>
+			<class name="restng_testsuite.employee_creation"></class>
+			<class name="restng_testsuite.Employee_Updation"></class>
+			
+		</classes>
+	</test>
+</suite>
+
